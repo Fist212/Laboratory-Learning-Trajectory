@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<user>
+        
+    <disciplines>
+                
+        <discipline name="Компьютерное зрение"/>
+                
+        <discipline name="Глубокое обучение"/>
+                
+        <discipline name="Обработка естественного языка"/>
+                
+        <discipline name="Машинное обучение"/>
+            
+        <discipline name="Химия"/>
+        <discipline name="Биология"/>
+    </disciplines>
+    
+</user>
